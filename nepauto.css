@@ -1,0 +1,52 @@
+.redP {
+    color: brown;
+}
+
+.wingers {
+    width: 200px;
+}
+
+table {
+    background-color: white;
+    width: 1000px;
+    border-collapse: collapse;
+    border: 2px solid blue;
+}
+
+td {
+    border: 1px solid red;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.rightAlign {
+    text-align: right;
+    font-weight: bold;
+}
+
+.leftAlign {
+    text-align: left;
+    font-weight: bold;
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    text-decoration-style: double;
+}
+
+ul {
+    list-style-type: square;
+}
+
+body {
+    background-color: grey;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: darkblue;
+    text-align-last: center;
+}
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+    border: 1px solid red;
+}
+
+td {
+    border: 1px solid red;
+    border-collapse: collapse;
+}
